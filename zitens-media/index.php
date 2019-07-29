@@ -266,7 +266,7 @@
                         <!-- Card image -->
                         <div class="view view-cascade overlay">
                             <img class="card-img-top" src="<?php bloginfo('template_url'); ?>/images/google-setup.jpg"
-                                alt="google-setup-image" height="250">
+                                alt="google-setup-image" height="150">
                             <a href="#!">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
@@ -291,7 +291,7 @@
                         <div class="view view-cascade overlay">
                             <img class="card-img-top"
                                 src="<?php bloginfo('template_url'); ?>/images/content-marketing.png"
-                                alt="content-marketing-image" height="250">
+                                alt="content-marketing-image" height="150">
                             <a href="#!">
                                 <div class="mask rgba-white-slight"></div>
                             </a>
